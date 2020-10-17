@@ -1,11 +1,11 @@
 ﻿using Oubliette.Characters.Domain.Models;
-using Oubliette.Characters.Shared.Database;
-using Oubliette.Characters.Shared.Repositories.Interfaces;
+using Oubliette.Characters.Core.Database;
+using Oubliette.Characters.Core.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Oubliette.Characters.Shared.Repositories
+namespace Oubliette.Characters.Core.Repositories
 {
     public class OublietteCharacterRepository : IOublietteCharacterRepository
     {

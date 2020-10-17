@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Oubliette.Characters.Domain.Models;
 
-namespace Oubliette.Characters.Shared.Database
+namespace Oubliette.Characters.Core.Database
 {
     public class OublietteCharacterContext : DbContext
     {

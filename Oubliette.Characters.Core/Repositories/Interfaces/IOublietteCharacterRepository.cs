@@ -1,10 +1,9 @@
 ﻿using Oubliette.Characters.Domain.Models;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace Oubliette.Characters.Shared.Repositories.Interfaces
+namespace Oubliette.Characters.Core.Repositories.Interfaces
 {
     public interface IOublietteCharacterRepository
     {

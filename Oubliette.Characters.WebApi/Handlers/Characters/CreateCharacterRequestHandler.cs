@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using MediatR;
 using Oubliette.Characters.Domain.Models;
-using Oubliette.Characters.Shared.Repositories.Interfaces;
+using Oubliette.Characters.Core.Repositories.Interfaces;
 using Oubliette.Characters.WebApi.Models.Characters;
 using System;
 using System.Collections.Generic;
